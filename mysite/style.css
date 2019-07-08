@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+  }
+  dl {
+      border: solid Teal;
+  }
+  html {
+      background-color: Maroon;
+    color: White;
+}
+a {
+    color: white;
+}
